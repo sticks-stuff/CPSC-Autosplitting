@@ -8,7 +8,7 @@
   - Edit Layout
   - Add > Control > Scriptable Autosplitter
   - Doubleclick "Scriptable Autosplitter"
-  - Open the "cpsc-autosplitting.asl" file you downloaded
+  - Open either "cpsc-autosplitting-firefox.asl" or "cpsc-autosplitting-chrome.asl", depending on which browser you plan to use
   - Change the settings to whatever you like
   - Done
   
