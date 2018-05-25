@@ -1,4 +1,4 @@
-state("Google Chrome") {}
+state("Chrome") {}
 startup {
   print("Started from Chrome");
   settings.Add("all_missions", false, "All Missions");
