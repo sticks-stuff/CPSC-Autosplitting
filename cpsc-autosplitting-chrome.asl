@@ -57,7 +57,7 @@ start {
 		print("Started timer from starting Mission 1");
 		return true;
 	}
-	if (settings["start_jpa"] && vars.line == "start_jpa") {
+	if (settings["start_jpa"] && vars.line == "split_jpa_pause") {
 		print("Started timer from starting JPA");
 		return true;
 	}
